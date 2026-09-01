@@ -1,5 +1,5 @@
 {
-  "version": "0.0.17",
-  "notes": "Smarter English, local .txt files, precise intelligence, optional internet lookup, GitHub update check.",
+  "version": "0.0.18",
+  "notes": "Dictionary.com + Wikipedia lookups, dedicated word database, file/folder create with download, attach with +, internet self-test.",
   "page": "https://github.com/JeffTheTroubleshooter/Jay-Bot/releases"
 }
