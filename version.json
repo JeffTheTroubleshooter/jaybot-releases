@@ -1,5 +1,5 @@
 {
-  "version": "0.0.18",
-  "notes": "Dictionary.com + Wikipedia lookups, dedicated word database, file/folder create with download, attach with +, internet self-test.",
+  "version": "0.0.19",
+  "notes": "Reads whole sentences, looks unknown words up on Dictionary.com and Wikipedia, stores them in a dedicated word database, files/folders with download, attach with +, internet self-test.",
   "page": "https://github.com/JeffTheTroubleshooter/Jay-Bot/releases"
 }
