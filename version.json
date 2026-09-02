@@ -1,5 +1,5 @@
 {
-  "version": "0.0.19",
-  "notes": "Reads whole sentences, looks unknown words up on Dictionary.com and Wikipedia, stores them in a dedicated word database, files/folders with download, attach with +, internet self-test.",
+  "version": "0.0.20",
+  "notes": "Sentence reading; Dictionary.com + Wikipedia without mashed extracts; word DB does not jump intelligence; files skip net wait; dedicated word database; attach +; internet self-test.",
   "page": "https://github.com/JeffTheTroubleshooter/Jay-Bot/releases"
 }
