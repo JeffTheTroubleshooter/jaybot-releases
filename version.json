@@ -1,5 +1,5 @@
 {
-  "version": "0.0.21",
-  "notes": "The simple chat works: name, what can you do, job, task, the file is written, no more “what does Jeffrey mean”.",
+  "version": "0.0.22",
+  "notes": "Deep mind for hard questions and complex tasks when Internet is on. Local core still owns name, job, task, and files. Simple chat unchanged.",
   "page": "https://github.com/JeffTheTroubleshooter/Jay-Bot/releases"
 }
