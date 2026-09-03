@@ -1,5 +1,6 @@
 {
-  "version": "0.0.23",
-  "notes": "On-device training: spec + example lessons (remember / when I say X you Y). Local core still owns name, job, task, and files. Simple chat unchanged.",
-  "page": "https://github.com/JeffTheTroubleshooter/Jay-Bot/releases"
+  "version": "0.0.25",
+  "notes": "Save spec now trains on this device. Teach with Brain → Train, remember, and when I say X you Y. Install over the previous APK — your team is kept.",
+  "page": "https://github.com/JeffTheTroubleshooter/jaybot-releases/releases/tag/v0.0.25",
+  "apk": "https://github.com/JeffTheTroubleshooter/jaybot-releases/releases/download/v0.0.25/Jay-Bot.apk"
 }
