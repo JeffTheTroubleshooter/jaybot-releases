@@ -1,5 +1,5 @@
 {
-  "version": "0.0.20",
-  "notes": "Sentence reading; Dictionary.com + Wikipedia without mashed extracts; word DB does not jump intelligence; files skip net wait; dedicated word database; attach +; internet self-test.",
+  "version": "0.0.21",
+  "notes": "The simple chat works: name, what can you do, job, task, the file is written, no more “what does Jeffrey mean”.",
   "page": "https://github.com/JeffTheTroubleshooter/Jay-Bot/releases"
 }
