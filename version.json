@@ -1,6 +1,6 @@
 {
-  "version": "0.0.26",
-  "notes": "On-device mind: quantized Qwen 2.5 via llama.cpp on this phone. Local core still owns name, job, files. Grok stays the online deep mind. Install under Brain → Device (~380 MB).",
-  "page": "https://github.com/JeffTheTroubleshooter/jaybot-releases/releases/tag/v0.0.26",
-  "apk": "https://github.com/JeffTheTroubleshooter/jaybot-releases/releases/download/v0.0.26/Jay-Bot.apk"
+  "version": "0.0.27",
+  "notes": "Growing brain: every real question is stored and copied onto this phone. Name, job, and files stay on the local core. Not a neural-net trainer.",
+  "page": "https://github.com/JeffTheTroubleshooter/jaybot-releases/releases/tag/v0.0.27",
+  "apk": "https://github.com/JeffTheTroubleshooter/jaybot-releases/releases/download/v0.0.27/Jay-Bot.apk"
 }
