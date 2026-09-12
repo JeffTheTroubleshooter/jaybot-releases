@@ -1,6 +1,6 @@
 {
-  "version": "0.0.31",
-  "notes": "Offline teammate on this phone. Leads with the answer. Uses the name you hired — never anyone else’s.",
-  "page": "https://github.com/JeffTheTroubleshooter/jaybot-releases/releases/tag/v0.0.31",
-  "apk": "https://github.com/JeffTheTroubleshooter/jaybot-releases/releases/download/v0.0.31/Jay-Bot.apk"
+  "version": "0.0.32",
+  "notes": "On-device mind is used when installed. Phone specs shown. Load and prove runs the GGUF on this device. Replies tagged On-device.",
+  "page": "https://github.com/JeffTheTroubleshooter/jaybot-releases/releases/tag/v0.0.32",
+  "apk": "https://github.com/JeffTheTroubleshooter/jaybot-releases/releases/download/v0.0.32/Jay-Bot.apk"
 }
