@@ -1,6 +1,6 @@
 {
-  "version": "0.0.29",
-  "notes": "Offline teammate on this phone. Same useful voice. Never calls itself another bot’s name. Emergency pack still on-device.",
-  "page": "https://github.com/JeffTheTroubleshooter/jaybot-releases/releases/tag/v0.0.29",
-  "apk": "https://github.com/JeffTheTroubleshooter/jaybot-releases/releases/download/v0.0.29/Jay-Bot.apk"
+  "version": "0.0.30",
+  "notes": "Phone GPS stays on while the app is open. Ask \u201cwhere am I\u201d. Last place is stored on this device for when the network is gone.",
+  "page": "https://github.com/JeffTheTroubleshooter/jaybot-releases/releases/tag/v0.0.30",
+  "apk": "https://github.com/JeffTheTroubleshooter/jaybot-releases/releases/download/v0.0.30/Jay-Bot.apk"
 }
